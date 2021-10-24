@@ -89,5 +89,5 @@ typings/
 
 # Visual Studio
 .vs
-*.dll
+bc_shutdown/bin
 bc_shutdown/obj
