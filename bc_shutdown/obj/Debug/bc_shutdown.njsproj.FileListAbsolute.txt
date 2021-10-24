@@ -1,3 +1,0 @@
-E:\Gits\nodejs\bc_shutdown\bc_shutdown\obj\Debug\bc_shutdown.njsproj.AssemblyReference.cache
-E:\Gits\nodejs\bc_shutdown\bc_shutdown\obj\Debug\bc_shutdown.njsproj.CoreCompileInputs.cache
-E:\Gits\nodejs\bc_shutdown\bc_shutdown\bin\Microsoft.NodejsTools.WebRole.dll
