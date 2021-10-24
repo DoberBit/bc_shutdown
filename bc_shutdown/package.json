@@ -1,0 +1,9 @@
+{
+  "name": "bc_shutdown",
+  "version": "0.0.0",
+  "description": "bc_shutdown",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
